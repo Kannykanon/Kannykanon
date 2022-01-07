@@ -1,0 +1,1 @@
+- 👋 Hi, I’m kannykanon, I am a back end developer, I'm proficient in Java, c sharp and python. 
